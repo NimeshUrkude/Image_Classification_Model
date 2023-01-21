@@ -1,0 +1,46 @@
+.e{
+    text-align: center;
+    background-color: white;
+    padding-left: 3%;
+    padding-right:3%;
+    height: 100%;
+    border: 5px black ridge;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.a{
+    font-size: 18px;
+}
+
+.b{
+    font-size: 15px;
+    margin: 10px;
+}
+
+.c{
+    background-color: black;
+    padding: 8px;
+    border-radius: 12px;
+    margin-bottom: 35px;
+    color: white;
+
+}
+
+img{
+    width: 100%;
+    object-fit: contain;
+    border: 2px solid black;
+}
+
+.f{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.g{
+    color: black;
+}
