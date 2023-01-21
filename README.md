@@ -1,6 +1,6 @@
 # Image Classification Model
 
-This Repository is of Tensorflow Image Classification Model, Showcase with React App..
+This Repository is of Tensorflow Image Classification Model, Showcase with React App.
 
 Model Link : https://drive.google.com/file/d/15wj2qU0Azi3ELDQt_s-Xhns8S4IElz-_/view
 
